@@ -1,6 +1,9 @@
 # Text Generation using Recurrent Long Short Term Memory Network
 
-This project implements a text generation model using an LSTM neural network. The goal is to train the model on a corpus of text and generate new text sequences that resemble the training data.
+![Text Generation with LSTM](assets/banner.png)
+
+This project implements a text generation model using an LSTM neural network.  
+The goal is to train the model on a corpus of text and generate new text sequences that resemble the training data.
 
 ## Project Overview
 
@@ -18,22 +21,21 @@ This project implements a text generation model using an LSTM neural network. Th
 ## How to Run
 
 1. Clone the repository:
-    ```
-    git clone https://github.com/your-username/text-generation-lstm
-    cd text-generation-lstm
+    ```bash
+    git clone https://github.com/yasharthrana/text-generation-LSTM
+    cd text-generation-LSTM
     ```
 
 2. Install dependencies:
-    ```
+    ```bash
     pip install -r requirements.txt
     ```
 
 3. Open the notebook and run it:
-    ```
+    ```bash
     jupyter notebook Text_Generation_using_Recurrent_Long_Short_Term_Memory_Network.ipynb
     ```
 
 ## Results
 
 The model learns the structure and style of the training corpus and generates new text sequences character by character or word by word, depending on the implementation.
-
