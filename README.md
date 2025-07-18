@@ -2,7 +2,6 @@
 
 This project implements a text generation model using an LSTM neural network.  
 The goal is to train the model on a corpus of text and generate new text sequences that resemble the training data.
-
 ## Project Overview
 
 - Preprocesses raw text data
