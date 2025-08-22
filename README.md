@@ -6,7 +6,7 @@ The goal is to train the model on a corpus of text and generate new text sequenc
 ## Project Overview
 
 - Preprocesses raw text data
-- Builds and trains an LSTM model using TensorFlow/Kera
+- Builds and trains an LSTM model using TensorFlow/Keras
 - Generates new text based on a seed input
 - Evaluates the model performance
 
