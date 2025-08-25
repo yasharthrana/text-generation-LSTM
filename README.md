@@ -1,4 +1,4 @@
-# Text Generation using Recurrent Long Short Term Memory Networ
+# Text Generation using Recurrent Long Short Term Memory Network
 
 This project implements a text generation model using an LSTM neural network.  
 The goal is to train the model on a corpus of text and generate new text sequences that resemble the training data.
